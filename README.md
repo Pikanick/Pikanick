@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Nicolas Ramirez
+### Hi there!👋 I'm Nicolas Ramirez
 
 I'm a Computer Engineering Student with a background in Biomedical Engineering. 
 
@@ -13,9 +13,9 @@ Relevant Coursework:
 Interests:
 - Business & Entreprenuership
 - Bioengineering
-- Podcasts: Huberman Lab Podcast, Jocko Willink, Diary of a CEO
+- Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
 - Music
-- Tennis
+- Fitness & Tennis
 
 
 
