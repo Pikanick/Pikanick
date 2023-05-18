@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there! 👋 I'm Nicolas Ramirez
+
+I'm a Computer Engineering Student with a background in Biomedical Engineering. 
+
+Relevant Coursework:
+- Operating Systems
+- Datastructures & Algorithms
+- Deep Learning Systems
+- Digital Systems Design
+- Embedded Systems
+- Digital Signal Processing
+
+Interests:
+- Business & Entreprenuership
+- Bioengineering
+- Podcasts: Huberman Lab Podcast, Jocko Willink, Diary of a CEO
+- Music
+- Tennis
+
+
 
 <!--
 **Pikanick/Pikanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
