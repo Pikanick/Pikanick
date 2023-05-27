@@ -6,6 +6,7 @@ Relevant Coursework:
 - Operating Systems
 - Datastructures & Algorithms
 - Deep Learning Systems
+- Database Systems
 - Digital Systems Design
 - Embedded Systems
 - Digital Signal Processing
