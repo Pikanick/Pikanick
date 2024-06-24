@@ -14,6 +14,7 @@ Relevant Coursework:
 - Digital Systems Design
 - Embedded Systems
 - Digital Signal Processing
+- Artificial intelligence
 
 Interests:
 - Business & Entreprenuership
