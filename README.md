@@ -8,16 +8,16 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 
 Relevant Coursework:
 - Operating Systems
-- Datastructures & Algorithms
+- Data Structures & Algorithms
 - Deep Learning Systems
 - Database Systems
 - Digital Systems Design
 - Embedded Systems
 - Digital Signal Processing
-- Artificial intelligence
+- Artificial Intelligence
 
 Interests:
-- Business & Entreprenuership
+- Business & Entrepreneurship
 - Bioengineering
 - Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
 - Music
