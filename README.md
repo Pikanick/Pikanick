@@ -1,4 +1,4 @@
-### Hi there!👋 I'm Nicolas Ramirez
+# Hi there!👋 I'm Nicolas Ramirez
 
 [
     ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -6,21 +6,21 @@
 
 I'm a Computer Engineering Student with a background in Biomedical Engineering. 
 
-## Technologies I'm Experienced with:
-# Programming Languages:
+# Technologies I'm Experienced with:
+## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,bash,cs,dart,matlab)](https://skillicons.dev)
-# Frameworks: 
+## Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,pytorch,tensorflow)](https://skillicons.dev)
-# Development Tools and IDEs::
+## Development Tools and IDEs::
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,atom,clion,eclipse,figma,git,github,gitlab,latex,,md,pycharm,powershell,vscode)](https://skillicons.dev)
-# Operating Systems:
+## Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=,apple,linux,windows,ubuntu)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse,figma,flutter,git,github,gitlab,latex,linux,md,matlab,pycharm,powershell,pytorch,tensorflow,vscode,windows,ubuntu)](https://skillicons.dev)
 
 
-##Relevant Coursework:
+## Relevant Coursework:
 - Operating Systems: C, Linux, Ubuntu, Bash, Git 
 - Data Structures & Algorithms: C++, VSCode
 - Deep Learning Systems: Python, Tensorflow, Anaconda
@@ -34,12 +34,12 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - Project Management: Jira, Confluence, Agile, Scrum, Crossfunctional Leadership, Risk Management, Project & Budget Planning
 - Product Management: Product Roadmapping & Lifecycle, Market Research
 
-#Misc:
+## Misc:
 - Finite Element Analysis: Comsol
 - Computer-Aided Design (CAD): Solidworks, Altium
 - 3D Printing
 
-#Interests:
+## Interests:
 - Product & Project Management
 - Business & Entrepreneurship
 - Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
