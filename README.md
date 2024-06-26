@@ -6,6 +6,8 @@
 
 I'm a Computer Engineering Student with a background in Biomedical Engineering. 
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py)](https://skillicons.dev)
+
 Relevant Coursework:
 - Operating Systems
 - Data Structures & Algorithms
