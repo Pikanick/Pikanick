@@ -6,7 +6,7 @@
 
 I'm a Computer Engineering Student with a background in Biomedical Engineering. 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse)](https://skillicons.dev)
 
 ,visualstudio,unbuntu,vim,,raspberrypi,sqlite, r,
 
