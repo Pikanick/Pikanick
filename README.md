@@ -12,9 +12,9 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 ### Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,pytorch,tensorflow)](https://skillicons.dev)
 ### Development Tools and IDEs::
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,atom,clion,eclipse,figma,git,github,gitlab,latex,,md,pycharm,powershell,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,atom,clion,eclipse,figma,git,github,gitlab,latex,md,pycharm,powershell,vscode)](https://skillicons.dev)
 ### Operating Systems:
-[![My Skills](https://skillicons.dev/icons?i=,apple,linux,windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,windows,ubuntu)](https://skillicons.dev)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse,figma,flutter,git,github,gitlab,latex,linux,md,matlab,pycharm,powershell,pytorch,tensorflow,vscode,windows,ubuntu)](https://skillicons.dev)
