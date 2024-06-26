@@ -10,14 +10,16 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 
 
 Relevant Coursework:
-- Operating Systems [![My Skills](https://skillicons.dev/icons?i=c,bash,clion,eclipse,git,github,linux,md,powershell,vscode,windows)](https://skillicons.dev)
-- Data Structures & Algorithms
-- Deep Learning Systems
-- Database Systems
-- Digital Systems Design
-- Embedded Systems
-- Digital Signal Processing
-- Artificial Intelligence
+- Operating Systems: C, Linux, Ubuntu, Bash, Git 
+- Data Structures & Algorithms: C++, VSCode
+- Deep Learning Systems: Python, Tensorflow, Anaconda
+- Database Systems: SQLite
+- Digital Systems Design: VHDL, Verilog, Quartus
+- Embedded Systems: C, .Net, C#, Arduino, Eclipse
+- Digital Signal Processing: Matlab, Latex
+- Artificial Intelligence: C, Clion
+- Game Development: PyGame, PyCharm 
+- Mobile Development: Dart, Flutter, Andriod Studio, IntelliJ IDEA, Figma, Git
 
 Interests:
 - Business & Entrepreneurship
