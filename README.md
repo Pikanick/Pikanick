@@ -16,9 +16,9 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 ### Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=,apple,linux,windows,ubuntu)](https://skillicons.dev)
 
-
+<!--
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse,figma,flutter,git,github,gitlab,latex,linux,md,matlab,pycharm,powershell,pytorch,tensorflow,vscode,windows,ubuntu)](https://skillicons.dev)
-
+-->
 
 ## Relevant Coursework:
 - Operating Systems: C, Linux, Ubuntu, Bash, Git 
