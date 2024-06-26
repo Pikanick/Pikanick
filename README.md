@@ -34,7 +34,7 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - Project Management: Jira, Confluence, Agile, Scrum, Crossfunctional Leadership, Risk Management, Project & Budget Planning
 - Product Management: Product Roadmapping & Lifecycle, Market Research
 
-## Misc:
+## Design and Fabrication Tools:
 - Finite Element Analysis: Comsol
 - Computer-Aided Design (CAD): Solidworks, Altium
 - 3D Printing
