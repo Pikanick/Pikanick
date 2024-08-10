@@ -20,31 +20,40 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse,figma,flutter,git,github,gitlab,latex,linux,md,matlab,pycharm,powershell,pytorch,tensorflow,vscode,windows,ubuntu)](https://skillicons.dev)
 -->
 
-## Relevant Coursework:
-- Operating Systems: C, Linux, Ubuntu, Bash, Git 
-- Data Structures & Algorithms: C++, VSCode
-- Deep Learning Systems: Python, Tensorflow, Anaconda
-- Database Systems: SQLite
-- Digital Systems Design: VHDL, Verilog, Quartus
-- Embedded Systems: C, .Net, C#, Arduino, Eclipse
-- Digital Signal Processing: Matlab, Latex
-- Artificial Intelligence: C, Clion
-- Game Development: PyGame, PyCharm 
-- Mobile Development: Dart, Flutter, Andriod Studio, IntelliJ IDEA, Figma, Git
-- Project Management: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
-- Product Management: Product Roadmapping & Lifecycle, Market Research
+# 💻 Skills & Expertise
 
-## Design and Fabrication Tools:
-- Finite Element Analysis: Comsol
-- Computer-Aided Design (CAD): Solidworks, Altium
-- 3D Printing
+## 🛠️ Software Development & Engineering
+- **Programming Languages:** Proficient in C, C++, Python, VHDL, Verilog, Dart, C#, and .NET.
+- **System Design & Development:** Experienced in developing embedded systems, digital systems, and signal processing algorithms using C, VHDL, Verilog, and Matlab.
+- **Database Management:** Skilled in designing, implementing, and managing databases using SQLite.
 
-## Interests:
-- Product & Project Management
-- Business & Entrepreneurship
-- Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
-- Music
-- Fitness & Tennis
+## 🤖 Artificial Intelligence & Machine Learning
+- **Deep Learning:** Advanced knowledge of Python and TensorFlow for developing and deploying neural networks and machine learning models.
+- **AI Systems:** Experience in implementing AI algorithms and systems in C.
+
+## 📱 Mobile & Game Development
+- **Mobile Applications:** Expertise in cross-platform mobile development using Dart and Flutter, with a strong understanding of UI/UX design principles. (expert in andriod) 
+- **Game Development:** Developed interactive games using Python and PyGame.
+
+## ⚙️ Tools & Technologies
+- **Version Control:** Extensive experience with Git for source code management and collaboration.
+- **Operating Systems:** Proficient in Linux and Ubuntu environments, with strong command over Bash scripting.
+
+## 📊 Project & Product Management
+- **Project Management:** Skilled in Agile and Scrum methodologies, with expertise in using Jira and Confluence for project tracking, risk management, and cross-functional leadership.
+- **Product Management:** Proficient in product lifecycle management, including roadmapping, market research, and product strategy development.
+
+## 🛠️ Design and Fabrication Tools
+- **Finite Element Analysis:** Comsol
+- **Computer-Aided Design (CAD):** Solidworks, Altium
+- **3D Printing**
+
+## 🌟 Interests
+- **Product & Project Management**
+- **Business & Entrepreneurship**
+- **Podcasts:** Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
+- **Music**
+- **Fitness & Tennis**
 
 
 
