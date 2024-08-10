@@ -30,7 +30,7 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - Digital Signal Processing: Matlab, Latex
 - Artificial Intelligence: C, Clion
 - Game Development: PyGame, PyCharm 
-- Mobile Development: Dart, Flutter, Andriod Studio, IntelliJ IDEA, Figma, Git
+- Mobile Development: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
 - Project Management: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
 - Product Management: Product Roadmapping & Lifecycle, Market Research
 
