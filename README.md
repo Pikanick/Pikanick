@@ -21,24 +21,24 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 -->
 
 ## 💻 Relevant Coursework:
-- Operating Systems: C, Linux, Ubuntu, Bash, Git 
-- Data Structures & Algorithms: C++, VSCode
-- Deep Learning Systems: Python, Tensorflow, Anaconda
-- Database Systems: SQLite
-- Digital Systems Design: VHDL, Verilog, Quartus
-- Embedded Systems: C, Arduino, Eclipse
-- Digital Signal Processing: Matlab, Latex
-- Artificial Intelligence: Python, Pycharm
-- Game Development: PyGame, PyCharm 
-- Mobile Development: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
-- Web Development: HTML, CSS, JS, React, C#, .Net, Firebase, Stripe
-- Project Management: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
-- Product Management: Product Roadmapping & Lifecycle, Market Research
+- **Operating Systems**: C, Linux, Ubuntu, Bash, Git 
+- **Data Structures & Algorithms**: C++, VSCode
+- **Deep Learning Systems**: Python, Tensorflow, Anaconda
+- **Database Systems**: SQLite
+- **Digital Systems Design**: VHDL, Verilog, Quartus
+- **Embedded Systems**: C, Arduino, Eclipse
+- **Digital Signal Processing**: Matlab, Latex
+- **Artificial Intelligence**: Python, Pycharm
+- **Game Development**: PyGame, PyCharm 
+- **Mobile Development**: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
+- **Web Development**: HTML, CSS, JS, React, C#, .Net, Firebase, Stripe
+- **Project Management**: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
+- **Product Management**: Product Roadmapping & Lifecycle, Market Research
 
 ## 🛠️ Design and Fabrication Tools:
-- Finite Element Analysis: Comsol
-- Computer-Aided Design (CAD): Solidworks, Altium
-- 3D Printing
+- **Finite Element Analysis**: Comsol
+- **Computer-Aided Design (CAD)**: Solidworks, Altium
+- **3D Printing**
 
 ## ⚡ Interests:
 - Product & Project Management
