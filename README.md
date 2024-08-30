@@ -20,26 +20,27 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,anaconda,apple,arduino,atom,bash,cs,clion,dart,dotnet,eclipse,figma,flutter,git,github,gitlab,latex,linux,md,matlab,pycharm,powershell,pytorch,tensorflow,vscode,windows,ubuntu)](https://skillicons.dev)
 -->
 
-## Relevant Coursework:
+## 💻 Relevant Coursework:
 - Operating Systems: C, Linux, Ubuntu, Bash, Git 
 - Data Structures & Algorithms: C++, VSCode
 - Deep Learning Systems: Python, Tensorflow, Anaconda
 - Database Systems: SQLite
 - Digital Systems Design: VHDL, Verilog, Quartus
-- Embedded Systems: C, .Net, C#, Arduino, Eclipse
+- Embedded Systems: C, Arduino, Eclipse
 - Digital Signal Processing: Matlab, Latex
-- Artificial Intelligence: C, Clion
+- Artificial Intelligence: Python, Pycharm
 - Game Development: PyGame, PyCharm 
 - Mobile Development: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
+- Web Development: HTML, CSS, JS, React, C#, .Net, Firebase, Stripe
 - Project Management: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
 - Product Management: Product Roadmapping & Lifecycle, Market Research
 
-## Design and Fabrication Tools:
+## 🛠️ Design and Fabrication Tools:
 - Finite Element Analysis: Comsol
 - Computer-Aided Design (CAD): Solidworks, Altium
 - 3D Printing
 
-## Interests:
+## ⚡ Interests:
 - Product & Project Management
 - Business & Entrepreneurship
 - Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
