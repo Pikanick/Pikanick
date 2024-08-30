@@ -41,7 +41,6 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - **3D Printing**
 
 ## ⚡ Interests:
-- Product & Project Management
 - Business & Entrepreneurship
 - Podcasts: Huberman Lab Podcast, Lex Fridman, Rich Roll, Tim Ferris, Peter Attia MD, Chris Williamson, Jocko Willink, Diary of a CEO
 - Music
