@@ -32,7 +32,7 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - **Game Development**: PyGame, PyCharm 
 - **Mobile Development**: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
 - **Web Development**: HTML, CSS, JS, React, C#, .Net, Firebase, Stripe
-- **Project Management**: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning
+- **Project Management**: Jira, Confluence, Agile, Scrum, Cross-functional Leadership, Risk Management, Project & Budget Planning, Supply Chain & Inventory Management
 - **Product Management**: Product Roadmapping & Lifecycle, Market Research
 
 ## 🛠️ Design and Fabrication Tools:
