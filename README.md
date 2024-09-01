@@ -28,7 +28,7 @@ I'm a Computer Engineering Student with a background in Biomedical Engineering.
 - **Digital Systems Design**: VHDL, Verilog, Quartus
 - **Embedded Systems**: C, Arduino, Eclipse
 - **Digital Signal Processing**: Matlab, Latex
-- **Artificial Intelligence**: Python, Pycharm
+- **Artificial Intelligence**: Python, Reinforcement Learning, MDP
 - **Game Development**: PyGame, PyCharm 
 - **Mobile Development**: Dart, Flutter, Android Studio, IntelliJ IDEA, Figma, Git
 - **Web Development**: HTML, CSS, JS, React, C#, .Net, Firebase, Stripe
